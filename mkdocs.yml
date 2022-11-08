@@ -1,14 +1,17 @@
-site_name: My Docs
+site_name: John Telford
+
 theme:
   name: material
+
 nav:
   - Home: index.md
   - About: company.md
-site_name: JohnTelford
+
 markdown_extensions:
   - admonition
+  
   - pymdownx.details
-  - pymdownx.superfences
+  
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
