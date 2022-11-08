@@ -2,13 +2,20 @@ site_name: John Telford
 
 theme:
   name: material
+  
   features:
     - navigation.tracking
 
+# page tree
 nav:
   - Home: index.md
+  
   - Company:
     - About: company.md
+  
+  - Materials for MkDocs:
+    - creating site.md
+    - diagrams.md
 
 markdown_extensions:
   - admonition
