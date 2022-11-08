@@ -2,10 +2,13 @@ site_name: John Telford
 
 theme:
   name: material
+  features:
+    - navigation.tracking
 
 nav:
   - Home: index.md
-  - About: company.md
+  - Company:
+    - About: company.md
 
 markdown_extensions:
   - admonition
