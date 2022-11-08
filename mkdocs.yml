@@ -5,14 +5,21 @@ theme:
   
   features:
     - navigation.tracking
+    - navigation.instant
 
 # page tree
 nav:
   - Home: index.md
   
+  - Teams:
+    - teams.md
+    - define.md
+    - design.md
+
   - Company:
     - About: company.md
-  
+    - Contact: contact.md
+
   - Materials for MkDocs:
     - creating site.md
     - diagrams.md
