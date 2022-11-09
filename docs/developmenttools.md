@@ -108,7 +108,7 @@ An alternative to using these built-in [VScode](#vscode) commands is to use [Git
 
 !!! Question
 
-    It helps answer the questions for the lifetime of the project *who changed what, where, when, and why?* 
+    GitHub helps answer the questions for the lifetime of the project *who changed what, where, when, and why?* 
 
 Team members use the [Website Development Stack](website-development-stack) to develop and deploy websites to the Internet.
 
