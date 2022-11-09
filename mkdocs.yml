@@ -2,6 +2,12 @@ site_name: John Telford
 
 theme:
   name: material
+
+  palette:
+
+    primary: teal
+    accent: indigo
+
   
   features:
     - navigation.tracking
@@ -10,11 +16,13 @@ theme:
 # page tree
 nav:
   - Home: index.md
-  
+
   - Teams:
     - teams.md
     - define.md
     - design.md
+    - Team - Develop:
+      - develop.md
 
   - Company:
     - About: company.md
@@ -34,3 +42,4 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
