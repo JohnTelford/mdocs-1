@@ -36,26 +36,18 @@ Website design prerequisites are making decisions:
 - User interaction
 ---
 
-### Docusaurus
+### Material for MkDocs
 
-![Docusaurus](/img/docusauruslogo.png)
+Together, MkDocs and Material for MkDocs are among the most popular options when it comes to choosing a static site generator and theme
 
-This website is built using [Docusaurus](https://docusaurus.io/) development framework.
-Several other [Development Frameworks](https://docusaurus.io/docs#comparison-with-other-tools) and other static site generators are available.
+This website is built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
-Docusaurus is:
+There are several other [Development Frameworks](https://squidfunk.github.io/mkdocs-material/alternatives/) website static site generators are available for website development.
 
-- Modern [Jamstack](https://jamstack.org/) documentation site
-- A Single Page Application (SPA) is a single web page, website, or web application that works within a web browser and loads just a single document. It does not need page reloading during its usage, and most of its content remains the same while only some of it needs updating. When the content needs to be updated, the SPA does it through JavaScript APIs.
-- Abstracts the full power of [React](programming#react), [MDX](programming#mdx), and [JSX](programming#react-jsx), for creating user interfaces.
+Checkout the Material for MkDocs [Philosophy](https://squidfunk.github.io/mkdocs-material/philosophy/).
 
-[Docusaurus](https://docusaurus.io/) is a static site generator. It is created and open-sourced by [Meta Open Source](https://opensource.fb.com/)
-
-Learn more:
-- [Features](https://docusaurus.io/docs#features)
-- [Docusaurus Project Details](https://opensource.fb.com/projects/docusaurus)
-
-
+- Material for MkDocs is a theme for [MkDocs](https://www.mkdocs.org/).
+- See [Create a Site](creating site.md). Follow the instructions to quickly creating a demo Material fo MkDocs website.
 ---
 
 ## Responsive Website Design

@@ -23,6 +23,13 @@ nav:
     - design.md
     - Team - Develop:
       - develop.md
+      - website-development-stack.md
+      - developmenttools.md
+      - programming.md
+      - workstations.md
+      - material.md
+
+
 
   - Company:
     - About: company.md
