@@ -4,8 +4,9 @@ title: Develop
 
 !!! Abstract
     The *Develop* team translates the *Define* and *Design* teams processes into website pages using development languages creating website material such as text and graphics, and for configuring and using website development tools. Development languages are strict, nonhuman, and abstract logical structures. 
-    
- !!! danger   
+
+
+!!! danger 
     The slightest errors or security issues during development will require remediation sometime during the life time of the website. 
 
 ## Prerequisites
