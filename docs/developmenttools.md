@@ -48,9 +48,6 @@ Lorem text generator extension for [VScode](#vscode)
 -  Markdown All in One  
 All you need for Markdown (keyboard shortcuts, table of contents, auto preview and more)
 
-- MDX  
-MDX for Visual Studio Code
-
 - Rainbow Brackets  
 Provide rainbow colors for the round brackets, the square brackets and the squiggly brackets
 
@@ -73,11 +70,12 @@ Icons for Visual Studio Code
 
 ## Git Desktop
 
-![Git Desk Top](/img/gitdesktop.png)
+!!! info
+    ![Git Desk Top](/img/gitdesktop.png)
 
-An alternative to using these built-in [VScode](#vscode) commands is to use [GitHub Desktop](https://docs.github.com/en/desktop). It abstract [Github](#github) and more [Git](#git) commands. It interacts with GitHub using a GUI instead of the command line or a web browser. 
+    - Git Desktop is an alternative to using [VScode](#vscode) built-in Git commands. It abstract [Github](#github) and more [Git](#git) commands. It interacts with GitHub using a GUI instead of the command line or a web browser. It is a Microsoft product available on Mac and Windows.
 
-[GitHub Desktop and VSCode](http://www.rodanthi-alexiou.com/github-101-github-desktop-and-vscode/) documents how to use GitHub Desktop with [VScode](#vscode). 
+    - Visual Studio Code is recommended for most people. 
 
 ---
 
@@ -206,18 +204,6 @@ Switched to a new branch 'non-existing-branch'
 Congratulations, you have now successfully switched to another branch and you can start working on it.
 
 
----
- 
-### Git Desktop
-
-<img src="/img/gitdesktop.png" width="100"/>
-
- Git Desktop is an alternative to using [VScode](#vscode) built-in Git commands. It abstract [Github](#github) and more [Git](#git) commands. It interacts with GitHub using a GUI instead of the command line or a web browser. It is a Microsoft product available on Mac and Windows.
-
-[GitHub Desktop and VSCode](http://www.rodanthi-alexiou.com/github-101-github-desktop-and-vscode/) documents explain how to use GitHub Desktop with [VScode](#vscode). 
-
----
-
 ## iA Writer
 
 Editing Markdown / MDX website pages and blog posts using iA Writer is faster because of focus and grammar features with live preview.
@@ -229,7 +215,7 @@ Editing Markdown / MDX website pages and blog posts using iA Writer is faster be
 <img src="/img/ialogo.png" width="100"/>
 
 - [iA Writer](https://apps.apple.com/us/app/ia-writer/id775737590?mt=12) is a Markdown Writing app:
-    - Faster way to write MDX website material 
+    - Faster way to write MD website material 
     - Extensive Style Check
     - Focus
         - Sentence
@@ -241,11 +227,6 @@ Editing Markdown / MDX website pages and blog posts using iA Writer is faster be
 ---
 
 ## Chronosync
-
-<!--
-![ChronoSync](/img/CSLogo300.png)
--->
-
 
 <img src="/img/CSLogo300.png" width="100"/>
 
