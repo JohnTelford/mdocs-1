@@ -3,7 +3,10 @@ site_name: John Telford
 theme:
   name: material
 
+  font: light 300
+
   features:
+    - header.autohide
     - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
@@ -23,6 +26,7 @@ theme:
 # page tree
 nav:
   - Home: index.md
+  - Overview: siteoverview.md
 
   - Teams:
     - teams.md
@@ -56,4 +60,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra:
+  version:
+    provider: mike
+
 

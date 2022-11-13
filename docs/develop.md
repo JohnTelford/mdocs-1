@@ -7,7 +7,9 @@ title: Develop
 
 
 !!! danger 
-    The slightest errors or security issues during development will require remediation sometime during the life time of the website. 
+    The slightest errors or security issues during development will require remediation sometime during the life time of the website. The highest cost over the life time of website projects is remediating defects.
+
+
 
 ## Prerequisites
 
