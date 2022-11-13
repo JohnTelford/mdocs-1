@@ -1,7 +1,7 @@
 === "Material for MkDocs"
 
 ``` yaml
-name: ci # (1)!
+name: mkbooks-1
 on:
   push:
     branches:
