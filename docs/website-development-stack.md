@@ -15,8 +15,50 @@ title: Website Development Stack
 
 <img src="/img/websitedev.png" width="500" />
 
-### Development Stack
+### Website Development Stack
 
+``` mermaid
+flowchart TB
+	net([Internet]) 
+
+	net --- cdn
+
+	net --- WEB([Deployed Website])
+
+	github([GitHub]) 
+
+	github --- crepo([Central Repository])
+
+	github --- cdn
+
+	github --- net
+	
+	cdn([Content Delivery Network])
+
+	cdn --- WEB
+
+	vsc([VScode - Command and Control]) --- net 
+	
+	vsc --- lrepo([Local Repo])
+
+	ssg([Static Site Generator])
+
+	vsc --- ssg
+
+	ssg --- lrepo
+
+	ssg --- net
+
+	brow([Browser])
+
+	ssg --- brow
+
+	brow --- net
+
+
+```
+
+### Mermaid
 ---
 
 !!! info
